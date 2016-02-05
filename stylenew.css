@@ -1,0 +1,97 @@
+/*@import url(https://fonts.googleapis.com/css?family=Fugaze One);*/
+*{
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background: url(http://s13.postimg.org/a0n3kfo1j/photo_1444313431167_e7921088a9d3.jpg) no-repeat no-repeat center center;
+  background-size: cover , auto;
+  font-family: 'Open Sans', sans-serif;
+}
+.h1 h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 120px;
+  font-style: oblique;
+  width: 95.58%;
+  line-height: 180px;
+  text-align: center;
+  padding: 30px;
+  /*/////////MAGIC//HERE////////*/
+  background: #222;
+  color: white;
+  mix-blend-mode: multiply;
+  /*////////////////////////////*/
+}
+
+.heading h2 {
+  float: center;
+  top: 12%
+  left: 50%
+  right: 50%
+  font-family: 'Open Sans', sans-serif;
+  font-size: 60px;
+  font-weight: bolder;
+  line-height: 60px;
+  text-align: center;
+  padding: 10px;
+  margin-top: 60%;
+  margin-bottom: 0%;
+}
+
+.bio h3 {
+  float: center;
+  top: 15%
+  left: 50%
+  right: 50%
+  font-family: 'Open Sans', sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  line-height: 60px;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  margin-top: %;
+  margin-bottom: auto;
+}
+
+.bio p {
+  float: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 23px;
+  line-height: 25px;
+  text-align: center;
+  width: 700px;
+  padding: 10px;
+  border: 6px solid black;
+  margin: 10px;
+  margin-top: 3.5%;
+  margin-left: 22.5%;
+  margin-bottom: auto;
+}
+
+.contact h3 {
+  float: center
+  top: 70%
+  margin-top: 50px
+  margin-left: auto;
+
+}
+
+.nav-wrapper {
+  color: black;
+}
+
+footer {
+  margin-top: 10%;
+}
+.greydarken-2 {
+  font-family: 'Open Sans', sans-serif;
+}
